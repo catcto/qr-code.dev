@@ -1,7 +1,7 @@
 version: '3.1'
 
 services:
-  awesome-top-api:
+  qr-code.dev:
     image: catcto/qr-code.dev
     container_name: qr-code.dev
     restart: always
