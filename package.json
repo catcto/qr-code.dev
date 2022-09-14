@@ -20,15 +20,12 @@
   "homepage": "https://github.com/catcto/qr-code.dev#readme",
   "dependencies": {
     "body-parser": "^1.20.0",
-    "catcto-node-util": "^1.0.3",
+    "catcto-node-util": "^1.0.4",
     "cookie-parser": "^1.4.6",
-    "cors": "^2.8.5",
     "debug": "^4.3.4",
     "ejs": "^3.1.8",
     "express": "^4.18.1",
-    "helmet": "^6.0.0",
     "i18next": "^21.9.1",
-    "ioredis": "^5.2.3",
     "lodash": "^4.17.21",
     "morgan": "^1.10.0"
   }
